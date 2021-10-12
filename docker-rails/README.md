@@ -10,7 +10,7 @@ WSL2(Ubuntu)の環境下でDockerを使ったRailsの開発環境の記事が無
 
 ## ソースコード
 ソースコードは下記のとおりです。  
-[docker-rails.sh](https://qiita.com/azul915/items/5b7063cbc80192343fc0)
+[docker-rails.sh](https://github.com/sasami-pro/public_tools/tree/master/docker-rails)
 
 
 # 使い方
